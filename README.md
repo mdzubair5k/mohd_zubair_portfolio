@@ -6,7 +6,7 @@ Welcome to my portfolio website repository! This project showcases my skills and
 
 This portfolio website is designed to highlight my experience, skills, and projects in web development. It serves as a digital resume and portfolio where potential clients, employers, or collaborators can learn more about me and my work.
 
-**LIVE DEMO:** [Your Portfolio Website](https://github.com/mdzubair5k/mohd_zubair_portfolio)
+**LIVE DEMO:** [Your Portfolio Website](https://mdzubair5k.github.io/mohd_zubair_portfolio/)
 
 ## Features
 
